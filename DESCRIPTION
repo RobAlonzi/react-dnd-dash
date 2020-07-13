@@ -1,0 +1,13 @@
+Package: reactDnd
+Title: Drag and Drop for Dash
+Version: 0.0.1
+Description: Drag and Drop for Dash
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/RobAlonzi/react-dnd
+BugReports: https://github.com/RobAlonzi/react-dnd/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
