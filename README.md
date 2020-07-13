@@ -1,3 +1,11 @@
+**To Make Changes to the react-dnd component**
+1. Edit the JS code inside the react-dnd-dash repository. This is located at `src/lib/components/ReactDnd.react.js`, which is the entry point to the React component. 
+2. Once finished you would build the component with `npm run build`. This will generate python code in `/react_dnd` folder. 
+3. Test your component within the https://github.com/RobAlonzi/react-dnd-dash repository by running `python usage.py`. Make any necessary changes to the way the component is used in Python code in this file. 
+4. Copy the entirety of `/react_dnd` folder from https://github.com/RobAlonzi/react-dnd-dash to whatever project you want to use it in. 
+
+---------
+
 # react_dnd
 
 react_dnd is a Dash component library.
